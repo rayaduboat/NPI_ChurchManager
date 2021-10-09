@@ -1,0 +1,17 @@
+﻿
+tr:nth-child(2n+1) {
+    background-color: #ddebf7 !important;
+}
+
+tr:nth-child(2n) {
+    background-color: #fbf9f9!important;
+}
+
+td {
+    border: 1px solid #83c2f7!important;
+    cursor: pointer !important
+}
+thead tr, thead td {
+    border-bottom: #000000 !important;
+    border: 1px solid #83c2f7 !important;
+}

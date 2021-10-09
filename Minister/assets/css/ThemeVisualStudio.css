@@ -1,0 +1,8 @@
+﻿tr:nth-child(2n) {
+    color: black;
+    background-color: #364e6f;
+}
+tr:nth-child(2n+1) {
+    color: black;
+    background-color: #d6dbe9;
+}
